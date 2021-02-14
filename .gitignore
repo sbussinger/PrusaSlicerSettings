@@ -1,0 +1,4 @@
+# Ignore these folders
+/cache/
+/snapshots/
+/vendor/
